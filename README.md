@@ -6,4 +6,4 @@ if you want use discord.py, simeply type
 
 there is some bug in buttons, but its fine, try fix yourself
 
-if you like this, please  this code :P
+if you like this, please rate this :P
